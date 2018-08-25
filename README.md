@@ -3,7 +3,7 @@
 ## Python
 - [作って動かす ALife - 実装を通した人工生命モデル入門](https://github.com/alifelab/alife_book_src)
 
-- [Numpy Personal Training](https://github.com/tacNakadai/myProgram/blob/master/numpy_training.ipynb)
+- [Numpy Personal Training](https://github.com/tacNakadai/myProgram/blob/master/numpy_training.ipynb) | Numpyのわからないメソッドに遭遇した際の試し場所
 
 ## JavaScript
 
