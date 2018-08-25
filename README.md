@@ -1,6 +1,10 @@
 
-# myProgram
+# myProgram Launch
 ## Python
+- [作って動かす ALife - 実装を通した人工生命モデル入門](https://github.com/alifelab/alife_book_src)
+
+### Numpy Training
+
 
 ## JavaScript
 
@@ -12,8 +16,10 @@ Wikiの設定に苦しんだ部分の備忘録
 
 - [Sandbox Page](https://github.com/tacNakadai/myProgram/wiki/markdownSandbox)
 
-### Reference
 - [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
   - 公式ページだよ。
 
-###
+### Atom guides
+- Package List
+  https://loumo.jp/wp/archive/20150717000035/
+-
